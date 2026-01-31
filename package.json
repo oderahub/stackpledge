@@ -1,0 +1,9 @@
+{
+  "name": "stake-pledge",
+  "version": "1.0.0",
+  "description": "Accountability dApp - stake STX on your commitments",
+  "scripts": {
+    "test": "vitest",
+    "check": "clarinet check"
+  }
+}
